@@ -1,4 +1,4 @@
-Hi cuck. 2captcha javascript API wrapper.
+2captcha javascript API wrapper.
 
 npm install
 
